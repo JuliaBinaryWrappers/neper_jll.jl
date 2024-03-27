@@ -1,140 +1,140 @@
 [[neper]]
 arch = "aarch64"
-git-tree-sha1 = "1d13b91f49a74eded88523de73c8a1b43593928b"
+git-tree-sha1 = "51b7e3f902f996c4534cd6f355ac611fa36f7fdc"
 os = "macos"
 
     [[neper.download]]
-    sha256 = "da4eab936528158104bd8c592ea3052be126438bb73c370b5a6d723dd80c69a9"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f334ec8e5cb4aa6dd82ffd0828a503bb3f2fb07471d7186f37fdef5b268ee06c"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.aarch64-apple-darwin.tar.gz"
 [[neper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "beaedad2514de94d8e9d12fd94b8a51ea1cd1a89"
+git-tree-sha1 = "e21c493d65641b2efa6c61f2fca677d53eaba243"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "14b61e6c6c019cb59227279ad5fa15919e53a3cff3338898eb0a6367a549c348"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "756f04df73ec7339bac76fb1c52a4903769fc218e5169cfb7ba60098c76ce365"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[neper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "245fe240158ce468bafedbf97544bd078234d84a"
+git-tree-sha1 = "4433dd9559aa993677ce41b380232ec9183cd4ff"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "1377fdb8991a12b68f866acfb8082b3459b5b730d130ecb54e0833817678c90b"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a1b156c25ee3c4e1f04d122395b9ecf3878f5a9a5958b4543b61a0e403ff074c"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[neper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6a29a2b6a4d0f128ff5b32fb3bea69e3e47c4ec"
+git-tree-sha1 = "914fd4001094a37db82d95c042f76bbd5fb9215d"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "93b30dff6dc23ec3052c7bf99d3a9815e54c727d2d26ba2f6d942f80d38a8177"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "dbb783f1b868eda54c723acae7c11400582034cb90ff9e47fc7e58f2ba707c4e"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[neper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1be16d462c54abfddf61a1b33f44914b7fbc627"
+git-tree-sha1 = "7c5751c7473279b6b6cbf51e7b9d3eb25aa3e405"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "cb70eca90249309df5cf33c5c93bb4f01d88a606017ddd8bca0eb3ba171d42bf"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e67738b5d10a107a724e9ac615ba6b310e9239aa8e47eaf15a70d51e77877e6d"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[neper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec0d5d8d0c6c6e86f38e1def10c8c7839802f441"
+git-tree-sha1 = "dda28c7e43402bbfc5e2314fec6e4c5193a66e95"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "b65205cb8d3588cb8a7533ba16db1345ab6aedd74822a9d467c822aeaa24869f"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "c551f3005d01eda0567bfa6f230cbf2efa2d2a5037c6fe66c5eb30571b479569"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[neper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c38a7f7d38bfc064662086b2a2c5b5df1160506"
+git-tree-sha1 = "f8aeec6a58c78a3bee41524d4bebd91b3ac4de57"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "19ac9aa0c2e8a588e31cdd82946d77064a757d675d4e403f4c30ca684ab705af"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f9516d4e0577fd90cd639e2853e6e46ae36e3de1ebc8a211a0a489b9b7b4512d"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[neper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6681cccc93ae5d96b9efe4641a4531815a55bfd9"
+git-tree-sha1 = "efdfc9f7136da13265c998d8d9e0cc022deed4b4"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "4d37566a501158956ea0e4f7abeedb05574a036633fdb8abc3689468259b47eb"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "51624bfe7d3bff594e487c9dc5466719f54aba01f7089345661f220c863e5660"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.i686-linux-gnu-cxx03.tar.gz"
 [[neper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d11f62507a6628608afc261bf4d3ad2a27f7aef"
+git-tree-sha1 = "2a4cf858edd008ef812cb312266ff1a58fe7aaa5"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "76b6d2c2990117bc6a2f527beb3b3ad24285e366cd217d63953537d0862f8a4f"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "86db217e7dc595a1751900414f2972547d0f6fa7f056ed127c1449b52900cdf9"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.i686-linux-gnu-cxx11.tar.gz"
 [[neper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d7600691d5f4e238698a8eb7bd35b43b39959175"
+git-tree-sha1 = "95ca188882d5d5a69ea978bac6fcc60271c58c79"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "5b57ebbf32364cb6c7055686ed819a588c84fb94a8f223c7cda51f04607375f8"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "5a9ae6122dd954ad1714dba51fc4e291139c6cd357050adbf27ec4c7b307e091"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[neper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "346ef2656cbb9226584599dad0360e498435709c"
+git-tree-sha1 = "b739db37384fdb7b8302614bcbfd5344569e3681"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "9e5a43917a20bf778181eefb7869fc2fbbd74ae36d4b9a3f231ed2058477ed2e"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "880864ba5842243d7699a468359bfa04705bc2f6223f14466fa536ae3383b3f5"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[neper]]
 arch = "x86_64"
-git-tree-sha1 = "42d940025bae202990989b74be8270fc930468ad"
+git-tree-sha1 = "6b603763183f0a526674cbd1b6b87c428b69f2c1"
 os = "macos"
 
     [[neper.download]]
-    sha256 = "718e647840b953cde37eb8e95604d8565d43357051adacb8613be6f885ce08f9"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "20844ff84515b764338806817c8c25571cf1edede84f8cabe4673c450d890e58"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.x86_64-apple-darwin.tar.gz"
 [[neper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a4bdb9bdeff76597f07bc59ce995fb984882a7b"
+git-tree-sha1 = "8f9f9f96905f5cedf166f93e9d2422870d34bd12"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "65c516b4963e8d2b1ee05602eb7d809726c483beb3323a45e6b6044aaa555ad1"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f8468cd37616f7d732332d622728f6b62407487a409732111e771ce4739b151d"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[neper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9dc909c998e78f905e2ab644bae05cd486c90cd9"
+git-tree-sha1 = "8b30a1351399e85e18cd3266ec0035b13f214fba"
 libc = "glibc"
 os = "linux"
 
     [[neper.download]]
-    sha256 = "ea65889ccd67bed4bf5a35c093c27e6c89bac3af6d5ea7b6cf77e49d0ee9f5a7"
-    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.5.0+0/neper.v4.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ea7db4a01b07d612b1a4a37e14d7f8379436cfb0706ed32b1eeef4d7097ece56"
+    url = "https://github.com/JuliaBinaryWrappers/neper_jll.jl/releases/download/neper-v4.8.2+0/neper.v4.8.2.x86_64-linux-gnu-cxx11.tar.gz"
